@@ -15,7 +15,9 @@
 **About Me!**
 
 👀 I’m interested in programming and coding.
-🌱 I’m currently learning Javascript, Lua & Python
+
+🌱 I’m currently learning Javascript, Lua & Python.
+
 📫 Email me at [zuntiedev@gmail.com](mailto:zuntiedev@gmail.com).
 
 
