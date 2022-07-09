@@ -23,3 +23,4 @@ I'm a FiveM developer. Mainly working on the ESX framework.
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zuntie&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Zuntie's GitHub stats](https://github-readme-stats.vercel.app/api?username=zuntie&theme=react&show_icons=true)
