@@ -18,6 +18,8 @@ I'm a FiveM developer. Mainly working on the ESX framework.
 <img align="left" alt="SQL" width="26px" src="https://i.imgur.com/mu3O1CX.png"/>
 <img align="left" alt="MySQL" width="26px" src="https://i.imgur.com/sUmPAVb.png"/>
 <img align="left" alt="HeidiSQL" width="26px" src="https://i.imgur.com/kckeEq4.png"/>
+
+<br>
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zuntie&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
