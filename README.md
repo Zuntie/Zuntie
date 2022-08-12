@@ -18,6 +18,11 @@ I'm a FiveM and Discord Bot developer.
 <img align="left" alt="SQL" width="26px" src="https://i.imgur.com/mu3O1CX.png"/>
 <img align="left" alt="MySQL" width="26px" src="https://i.imgur.com/sUmPAVb.png"/>
 <img align="left" alt="HeidiSQL" width="26px" src="https://i.imgur.com/kckeEq4.png"/>
+<br>
+<br>
+
+## ⚙️ Learning
+<img align="left" alt="ReactNative" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
 
 <br>
 <br>
