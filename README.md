@@ -29,3 +29,8 @@ I'm a FiveM and Discord Bot developer.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zuntie&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Zuntie's GitHub stats](https://github-readme-stats.vercel.app/api?username=zuntie&theme=react&show_icons=true)
+
+## 📬 Contact Me
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/392318898046894090)
+<br>
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zuntiedev@gmail.com)
