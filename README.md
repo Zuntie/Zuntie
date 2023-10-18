@@ -2,7 +2,7 @@
 ![Logo](https://i.imgur.com/fkY07p1.png)
 
 ## About Me
-I'm a FiveM and Discord Bot developer.
+I'm a Web and FiveM developer.
 
 
 ## Languages and Tools
