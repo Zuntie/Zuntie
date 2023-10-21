@@ -26,7 +26,7 @@ I'm a Web and FiveM developer.
 ## Learning
 <img align="left" alt="ReactJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
 <img align="left" alt="NextJS" width="26px" src="https://www.datocms-assets.com/98835/1684410508-image-7.png"/>
-
+<img align="left" alt="Docker" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png"/>
 <br>
 <br>
 
