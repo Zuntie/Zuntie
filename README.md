@@ -2,7 +2,7 @@
 ![Logo](https://i.imgur.com/fkY07p1.png)
 
 ## About Me
-I'm a Web and FiveM developer.
+Currently a FiveM developer. Aiming to be a Fullstack developer in the future.
 
 
 ## Languages and Tools
