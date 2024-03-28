@@ -1,31 +1,31 @@
-
-![Logo](https://i.imgur.com/fkY07p1.png)
+<div align="center">
+<img src="https://i.imgur.com/fkY07p1.png"/>
+</div>
 
 ## About Me
 Currently a FiveM developer. Aiming to be a Fullstack developer in the future.
 
 
-## Languages and Tools
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
-<img align="left" alt="Git" width="26px" src="https://i.imgur.com/HY6RdVg.png"/>
-<img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
-<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-<img align="left" alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
-<img align="left" alt="Lua" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"/>
-<img align="left" alt="SQL" width="26px" src="https://i.imgur.com/mu3O1CX.png"/>
-<img align="left" alt="MySQL" width="26px" src="https://i.imgur.com/sUmPAVb.png"/>
-<img align="left" alt="HeidiSQL" width="26px" src="https://i.imgur.com/kckeEq4.png"/>
-<img align="left" alt="Express" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png"/>
-<img align="left" alt="EJS" width="26px" src="https://i.imgur.com/wezw0cH.png"/>
+## Skillset
+<p align="center">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/visualstudio_code.png"/>
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/html.png"/>
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/css3.png"/>
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/js.png"/>
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/nodejs.png"/>
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/5bffd4d642c18efdc535293f81fb8452d8f2445e/png/dev/languages/mysql.png"/>
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/react.png"/>
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a47ef79011ece63d4fca241d4c9f47fe2ba3b0b/svg/dev/frameworks/next.svg"/>
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/tools/docker.svg?plain=1"/>
 <br>
-<br>
+<img width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Lua-Light.svg"/>
+<img width="40px" src="https://i.imgur.com/kckeEq4.png"/>
+<img width="40px" src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TailwindCSS-Light.svg?plain=1"/>
+</p>
+
 
 ## Learning
-<img align="left" alt="ReactJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
-<img align="left" alt="NextJS" width="26px" src="https://www.datocms-assets.com/98835/1684410508-image-7.png"/>
-<img align="left" alt="Docker" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png"/>
+<img align="left" alt="CPP" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/01f2d70cc5f1936e0dcc5e566fa59eb7a95cd870/png/dev/languages/cpp.png"/>
 <br>
 <br>
 
