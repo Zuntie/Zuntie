@@ -3,7 +3,7 @@
 </div>
 
 ## About Me
-Currently a FiveM developer. Aiming to be a Fullstack developer in the future.
+Currently a FiveM developer, aiming to be Fullstack in the future.
 
 
 ## Skillset
