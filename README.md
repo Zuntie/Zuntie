@@ -3,7 +3,7 @@
 </div>
 
 ## About Me
-Currently a FiveM developer, aiming to be Fullstack in the future.
+Fullstack developer from Denmark, passionate about open source, new technologies, and building web applications. I enjoy clean code, automation, and exploring reverse engineering to enhance my development skills and workflows.
 
 
 ## Skillset
