@@ -9,9 +9,11 @@ Fullstack developer from Denmark, passionate about open source, new technologies
 ## Skillset
 <p align="center">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/visualstudio_code.png"/>
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/refs/heads/master/png/dev/tools/visualstudio.png"/>
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/html.png"/>
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/css3.png"/>
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/js.png"/>
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/6a3a3a3a8b90ae125ea85fc477ddf60b0769b366/svg/dev/languages/ts.svg"/>
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/nodejs.png"/>
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/5bffd4d642c18efdc535293f81fb8452d8f2445e/png/dev/languages/mysql.png"/>
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/react.png"/>
@@ -25,7 +27,9 @@ Fullstack developer from Denmark, passionate about open source, new technologies
 
 
 ## Learning
-<img align="left" alt="CPP" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/01f2d70cc5f1936e0dcc5e566fa59eb7a95cd870/png/dev/languages/cpp.png"/>
+<img align="left" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/01f2d70cc5f1936e0dcc5e566fa59eb7a95cd870/png/dev/languages/cpp.png"/>
+<img align="left" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/91f58bda85df0f21cab9d34e3fbbdf252dc6dfe4/png/dev/frameworks/react_native.png"/>
+
 <br>
 <br>
 
