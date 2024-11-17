@@ -27,6 +27,7 @@ Fullstack developer from Denmark, passionate about open source, new technologies
 
 
 ## Learning
+<img align="left" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/refs/heads/master/png/dev/languages/rust.png"/>
 <img align="left" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/01f2d70cc5f1936e0dcc5e566fa59eb7a95cd870/png/dev/languages/cpp.png"/>
 <img align="left" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/91f58bda85df0f21cab9d34e3fbbdf252dc6dfe4/png/dev/frameworks/react_native.png"/>
 
