@@ -22,6 +22,7 @@ Fullstack developer from Denmark, passionate about open source, new technologies
 <br>
 <img width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Lua-Light.svg"/>
 <img width="40px" src="https://i.imgur.com/kckeEq4.png"/>
+<img width="40px" src="https://preactjs.com/branding/symbol.svg"/>
 <img width="40px" src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TailwindCSS-Light.svg?plain=1"/>
 </p>
 
